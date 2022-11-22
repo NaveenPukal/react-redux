@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to redux</h1>
+      <h1>Welcome..lets practice redux</h1>
     </div>
   );
 }
